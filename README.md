@@ -1,2 +1,24 @@
 # Loan-Prediction-using-SVM
-Machine Learning Loan Prediction Project Using Python and SVM
+
+## Project Overview
+This project predicts whether a loan application will be approved or not using Support Vector Machine (SVM).
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-Learn
+
+## Workflow
+1. Data Cleaning
+2. Data Visualization
+3. Feature Engineering
+4. Data Splitting
+5. Model Training using SVM
+6. Accuracy Evaluation
+
+## Accuracy
+Training Accuracy: 78.9%
+Testing Accuracy: 83.3%
