@@ -32,5 +32,5 @@ python loan_prediction.py
 6. Accuracy Evaluation
 
 ## Accuracy
-Training Accuracy: 78.9%
+Training Accuracy: 78.9% 
 Testing Accuracy: 83.3%
