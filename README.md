@@ -1,4 +1,4 @@
-# Loan-Prediction-using-SVM
+## Loan-Prediction-using-SVM
 
 ## Project Overview
 This project predicts whether a loan application will be approved or not using Support Vector Machine (SVM).
