@@ -45,7 +45,7 @@ The project uses the Loan Prediction Dataset containing applicant information su
 * Loan Status
 
 Dataset Link:
-https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+https://www.kaggle.com/datasets/ninzaami/loan-predication
 
 ## Results
 
