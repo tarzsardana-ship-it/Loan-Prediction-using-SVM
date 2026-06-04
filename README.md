@@ -11,6 +11,8 @@ This project predicts whether a loan application will be approved or not using S
 
 ## Installation
 Clone the repository: https://github.com/tarzsardana-ship-it/Loan-Prediction-Using-SVM.git
+Install all required libraries using:
+pip install -r requirements.txt
 
 ## Workflow
 1. Data Cleaning
