@@ -106,8 +106,7 @@ git clone https://github.com/tarzsardana-ship-it/Loan-Prediction-Using-SVM.git
 cd Loan-Prediction-Using-SVM
 ### Install Dependencies
 pip install -r requirements.txt 
-### Run Streamlit App 
-streamlit run app.py
+### Run Streamlit App - streamlit run app.py
 ---
 
 ## 📷 Application Preview
