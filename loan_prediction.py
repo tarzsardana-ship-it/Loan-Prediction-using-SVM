@@ -141,5 +141,5 @@ test_accuracy = accuracy_score(Y_test, test_prediction)
 print("Testing Accuracy:", test_accuracy)
 # Save trained model
 import joblib
-joblib.dump(classifier, "loan_prediction_model.joblib")
-print("Model saved successfully as loan_prediction_model.joblib")
+joblib.dump(classifier, "loan_prediction_model.pkl")
+print("Model saved successfully as loan_prediction_model.pkl")
