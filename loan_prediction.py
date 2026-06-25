@@ -79,7 +79,7 @@ print("\n---------------- Data Separation ----------------")
 
 X = data.drop(columns=["Loan_ID", "Loan_Status"])
 Y = data["Loan_Status"]
-
+print(X.columns.tolist())
 print("\nFeatures Shape:", X.shape)
 print("Target Shape:", Y.shape)
 
