@@ -1,4 +1,4 @@
-# 🏦 Loan Prediction Using Support Vector Machine (SVM)
+# 🏦 Loan Prediction System
 
 A Machine Learning web application that predicts whether a loan application is likely to be approved or rejected based on applicant and financial information.
 
